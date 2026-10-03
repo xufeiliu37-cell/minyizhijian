@@ -1,0 +1,6 @@
+streamlit
+langchain-huggingface
+langchain-community
+chromadb
+sentence-transformers
+zhipuai
